@@ -1,6 +1,6 @@
 # Lotus BI Suite
 
-***Automatização de tratamento, integração e consolidação de arquivos de vendas e movimentações bancárias, gerando uma base limpa e incremental pronta para análises em Power BI. Interface desktop moderna, simples e amigável, desenvolvida em Python com CustomTkinter.***
+**Automatização de tratamento, integração e consolidação de arquivos de vendas e movimentações bancárias, gerando uma base limpa e incremental pronta para análises em Power BI. Interface desktop moderna, simples e amigável, desenvolvida em Python com CustomTkinter.**
 
 ---
 
@@ -17,7 +17,7 @@
 
 ## 📦 Bibliotecas Utilizadas
 
-- [customtkinter](https://github.com/TomSchimansky/CustomTkinter) (interface gráfica desktop)
+- [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) (interface gráfica desktop)
 - [Pillow (PIL)](https://pypi.org/project/Pillow/) (manipulação de imagens)
 - [Pandas](https://pandas.pydata.org/) (tratamento e fusão de dados)
 - [BeautifulSoup 4](https://pypi.org/project/beautifulsoup4/) (parsing de HTML/XML quando necessário no backend)
