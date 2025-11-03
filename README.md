@@ -194,7 +194,3 @@ Código aberto para adaptação e expansão.
 ## 📝 Licença
 
 Este projeto é livre para uso interno. Consulte o repositório para detalhes da licença.
-
----
-
-Desenvolvido por *Davi Henrick*.
