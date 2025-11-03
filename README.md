@@ -197,5 +197,4 @@ Este projeto é livre para uso interno. Consulte o repositório para detalhes da
 
 ---
 
-Desenvolvido por *Davi Henrick*.  
-Sempre cite a fonte ao utilizar em projetos públicos ou comerciais.
+Desenvolvido por *Davi Henrick*.
