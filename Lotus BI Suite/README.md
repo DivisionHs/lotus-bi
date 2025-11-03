@@ -1,6 +1,6 @@
 # Lotus BI Suite
 
-Automatização de tratamento, integração e consolidação de arquivos de vendas e movimentações bancárias, gerando uma base limpa e incremental pronta para análises em Power BI. Interface desktop moderna, simples e amigável, desenvolvida em Python com CustomTkinter.
+***Automatização de tratamento, integração e consolidação de arquivos de vendas e movimentações bancárias, gerando uma base limpa e incremental pronta para análises em Power BI. Interface desktop moderna, simples e amigável, desenvolvida em Python com CustomTkinter.***
 
 ---
 
