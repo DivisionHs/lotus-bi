@@ -1,4 +1,4 @@
-# Lotus BI Suite
+# Orion BI Suite
 
 **Automatização de tratamento, integração e consolidação de arquivos de vendas e movimentações bancárias, gerando uma base limpa e incremental pronta para análises em Power BI. Interface desktop moderna, simples e amigável, desenvolvida em Python com CustomTkinter.**
 
@@ -30,10 +30,10 @@
 
 ## 🖥️ Frontend
 
-O frontend da Lotus BI Suite foi construído em **CustomTkinter**, entregando uma interface moderna, responsiva e intuitiva.  
+O frontend da Orion BI Suite foi construído em **CustomTkinter**, entregando uma interface moderna, responsiva e intuitiva.  
 
 Todo o código está em:  
-`frontend/lotus_bi_app.py`
+`frontend/Orion_bi_app.py`
 
 **Destaques:**
 - Layout centralizado com foco em produtividade.
@@ -94,15 +94,15 @@ Frontend importa as funções backend e exibe o status/progresso em tempo real.
 ## 📁 Estrutura de Pastas
 
 ```
-Lotus BI Suite/
+Orion BI Suite/
 ├── assets/
 │   ├── logotipo_oficial.png
-│   └── lotus_icon.ico
+│   └── Orion_icon.ico
 ├── backend/
 │   ├── processing.py
 │   └── __init__.py
 ├── frontend/
-│   └── lotus_bi_app.py
+│   └── Orion_bi_app.py
 ├── Banco de Dados/                     
 │   ├── Histórico de Vendas/
 │   │   ├── dados_brutos/
@@ -125,8 +125,8 @@ Lotus BI Suite/
 
 ### Clone o repositório:
 ```
-git clone https://github.com/seu-usuario/lotus-bi-suite.git
-cd lotus-bi-suite
+git clone https://github.com/seu-usuario/Orion-bi-suite.git
+cd Orion-bi-suite
 ```
 ### Crie seu ambiente virtual e instale as dependências
 **Windows:**
@@ -152,7 +152,7 @@ pip install -r requirements.txt
 
 ### Execute a interface: 
 ```
-python ./frontend/lotus_bi_app.py
+python ./frontend/Orion_bi_app.py
 ```
 
 - Use os botões e selecione a pasta correta quando solicitado.
@@ -165,13 +165,13 @@ python ./frontend/lotus_bi_app.py
 ### Para empacotar e gerar o `.exe` standalone:
 ```
 venv\Scripts\pyinstaller.exe --onefile --noconsole ^
---icon="Lotus BI Suite/assets/lotus_icon.ico" ^
---add-data="Lotus BI Suite/assets/logotipo_oficial.png;assets" ^
---add-data="Lotus BI Suite/assets/lotus_icon.ico;assets" ^
---paths="Lotus BI Suite" "Lotus BI Suite/frontend/lotus_bi_app.py"
+--icon="Orion BI Suite/assets/Orion_icon.ico" ^
+--add-data="Orion BI Suite/assets/logotipo_oficial.png;assets" ^
+--add-data="Orion BI Suite/assets/Orion_icon.ico;assets" ^
+--paths="Orion BI Suite" "Orion BI Suite/frontend/Orion_bi_app.py"
 ```
 
-O executável estará em `dist/lotus_bi_app.exe`.
+O executável estará em `dist/Orion_bi_app.exe`.
 
 ---
 
