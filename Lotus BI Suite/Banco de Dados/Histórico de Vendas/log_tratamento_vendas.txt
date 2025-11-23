@@ -1,0 +1,24 @@
+------ Tratamento do dia 31/10/2025 ------
+
+Horário: 17:32:06
+Nome do Relatório: Histórico de Vendas (1).csv
+Quantidade de linhas adicionadas: 41700
+Tempo: 17.75s
+
+Horário: 17:32:24
+Nome do Relatório: Histórico de Vendas (2).csv
+Quantidade de linhas adicionadas: 4841
+Tempo: 3.65s
+
+Horário: 17:32:28
+Nome do Relatório: Histórico de Vendas.csv
+Quantidade de linhas adicionadas: 44761
+Tempo: 19.07s
+
+------ Compilação Concluída ------
+
+Horário: 17:32:47
+Nome do Relatório: base_vendas.csv
+Quantidade de linhas total: 91302
+Tempo total: 40.99s
+

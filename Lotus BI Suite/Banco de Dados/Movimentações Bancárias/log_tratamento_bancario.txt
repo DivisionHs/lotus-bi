@@ -1,0 +1,38 @@
+------ Tratamento do dia 31/10/2025 ------
+
+Horário: 17:32:47
+Nome do Relatório: Movimentações Conta Banco (01_08_2024 - 31_07_2025) (1).csv
+Quantidade de linhas adicionadas: 15921
+Tempo: 4.57s
+
+Horário: 17:32:52
+Nome do Relatório: Movimentações Conta Banco (01_08_2024 - 31_07_2025).csv
+Quantidade de linhas adicionadas: 19097
+Tempo: 3.84s
+
+------ Compilação Concluída ------
+
+Horário: 17:32:56
+Nome do Relatório: base_bancaria.csv
+Quantidade de linhas total: 35018
+Tempo total: 8.55s
+
+------ Tratamento do dia 03/11/2025 ------
+
+Horário: 15:54:56
+Nome do Relatório: Movimentações Conta Banco (01_08_2024 - 31_07_2025) (1).csv
+Quantidade de linhas adicionadas: 15921
+Tempo: 3.00s
+
+Horário: 15:54:59
+Nome do Relatório: Movimentações Conta Banco (01_08_2024 - 31_07_2025).csv
+Quantidade de linhas adicionadas: 19097
+Tempo: 4.08s
+
+------ Compilação Concluída ------
+
+Horário: 15:55:03
+Nome do Relatório: base_bancaria.csv
+Quantidade de linhas total: 70036
+Tempo total: 7.41s
+
